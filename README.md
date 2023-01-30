@@ -8,7 +8,7 @@ Seeking a role in an organisation that provides an opportunity to use my skills 
 * Java
 * Selenium
 * Git
-* HTML
+-  Basic HTML and CSS
 * TestNG
 * Cucumber
 * Webdriver
