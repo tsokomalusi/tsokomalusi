@@ -14,8 +14,7 @@ Seeking a role in an organisation that provides an opportunity to use my skills 
 - Agile development
 - Scrum methodology
 
-- 💻 I’m currently working on Selenium automation project 
-- 📱 I’m currently learning API Testing and  Mobile Testing 
+- 📱 I’m currently learning API Testing and Linux commands and shell scripting 
 
 
 
