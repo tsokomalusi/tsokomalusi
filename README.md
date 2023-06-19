@@ -1,7 +1,7 @@
 ![Software Testing](https://github.com/tsokomalusi/tsokomalusi/blob/main/github_profile2.png)
 ## Software Testing (Automation)
 ## Hi there 👋, I'm Tsoko Malusi
-Seeking a role in an organisation that provides an opportunity to use my skills innovatively and learn new technologies and add value to the team. My expertise lies in Selenium, Java, Agile and Automation test script development.
+I’d like to build a profound career and develop in the field of software testing and quality assurance. My goal is to strengthen my expertise in wide range of aspects related to manual and automated testing as well as QA/test management. I am currently researching about mobile testing.
 
 ## Skills and Experience
 - Java
