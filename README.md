@@ -14,7 +14,7 @@ I’d like to build a profound career and develop in the field of software testi
 - Agile development
 - Scrum methodology
 
-- 📱 I’m currently learning API Testing and Linux commands and shell scripting 
+- Linux commands and shell scripting 
 
 
 
