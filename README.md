@@ -9,7 +9,8 @@
 - Documentation
 - Manual/Auto Test Jigs
 - KiCad
-- PCB/Design
+- Altium Circuitmaker
+- PCB Design
 - Computer skills
  
 
