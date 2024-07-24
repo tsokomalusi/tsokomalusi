@@ -11,6 +11,7 @@
 - KiCad
 - Altium Circuitmaker
 - PCB Design
+- Test equipment
 - Computer skills
  
 
