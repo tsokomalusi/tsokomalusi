@@ -12,7 +12,7 @@
 - Altium Circuitmaker
 - PCB Design
 - Test equipment
-- Computer skills
+- Github/Git
  
 
 
