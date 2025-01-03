@@ -7,7 +7,7 @@
 - D/A Electronics
 - Simulation
 - C++ & C
-- STM32
+- Microcontrollers: STM32, PIC, Arduino & Renesas
 - Python
 - Technical Documentation
 - Manual/Auto Test Jigs
