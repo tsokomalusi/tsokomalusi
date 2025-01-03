@@ -5,7 +5,9 @@
 
 ## Skills and Experience
 - D/A Electronics
-- C++
+- C++ & C
+- STM32
+- Python
 - Documentation
 - Manual/Auto Test Jigs
 - KiCad
