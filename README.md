@@ -9,7 +9,7 @@
 - C++ & C
 - STM32
 - Python
-- Documentation
+- Technical Documentation
 - Manual/Auto Test Jigs
 - KiCad
 - Altium Circuitmaker
