@@ -30,8 +30,8 @@
  - Ford - EV Engineering Intro Job Simulation
 
  ## Education
- - Walter Sisulu University         ND: Electrical Engineering (LC), Telecommunications
- - Buchule THS                      NCS: Matric
+ - Walter Sisulu University:          ND Electrical Engineering (LC), Telecommunications
+ - Buchule THS:                       NCS Matric
 
  
 
