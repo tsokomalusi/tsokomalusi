@@ -23,6 +23,15 @@
  - Technoswitch                       Test Technician
  - Clickon Communications             Electronic Technician
 
+ ## License & Certifications
+ - Ford - EV Engineering Advanced Job Simulation
+ - Ford - EV Engineering Intermediate Job Simulation
+ - Ford - EV Engineering Intro Job Simulation
+
+ ## Education
+ - Walter Sisulu University         ND: Electrical Engineering (LC), Telecommunications
+ - Buchule THS                      NCS: Matric
+
  
 
 
