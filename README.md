@@ -5,6 +5,7 @@
 
 ## Skills and Experience
 - D/A Electronics
+- Simulation
 - C++ & C
 - STM32
 - Python
@@ -17,11 +18,11 @@
 - Github/Git
 
  ## Work Experience
- - Likhanye Consulting Engineers      Trainee
- - Yekani                             Test Technician
- - Prism Lighting                     Sample Builder
- - Technoswitch                       Test Technician
- - Clickon Communications             Electronic Technician
+ - Likhanye Consulting Engineers:      Trainee
+ - Yekani:                             Test Technician
+ - Prism Lighting:                     Sample Builder
+ - Technoswitch:                       Test Technician
+ - Clickon Communications:             Electronic Technician
 
  ## License & Certifications
  - Ford - EV Engineering Advanced Job Simulation
