@@ -15,6 +15,14 @@
 - PCB Design
 - Test equipment
 - Github/Git
+
+ ## Work Experience
+ - Likhanye Consulting Engineers      Trainee
+ - Yekani                             Test Technician
+ - Prism Lighting                     Sample Builder
+ - Technoswitch                       Test Technician
+ - Clickon Communications             Electronic Technician
+
  
 
 
