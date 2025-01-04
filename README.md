@@ -28,7 +28,10 @@
  - Ford - EV Engineering Advanced Job Simulation
  - Ford - EV Engineering Intermediate Job Simulation
  - Ford - EV Engineering Intro Job Simulation
-
+ - Altium Designer - PCB Basic Design Course
+ - ISTQB Agile Foundation Agile Tester
+ - ISTQB Foundation
+   
  ## Education
  - Walter Sisulu University:          ND Electrical Engineering (LC), Telecommunications
  - Buchule THS:                       NCS Matric
