@@ -11,9 +11,7 @@
 - Python
 - Technical Documentation
 - Manual/Auto Test Jigs
-- KiCad
-- Altium Circuitmaker
-- PCB Design
+- PCB Design: KiCad/Altium Circuitmaker
 - Test equipment
 - Github/Git
 
