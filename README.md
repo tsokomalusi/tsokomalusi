@@ -7,11 +7,10 @@
 - D/A Electronics
 - Simulation
 - C++ & C
-- Microcontrollers: STM32, PIC, Arduino & Renesas
+- Microcontrollers: STM32, PIC & Arduino 
 - Python
 - Technical Documentation
-- Manual/Auto Test Jigs
-- PCB Design: KiCad/Altium Circuitmaker
+- PCB Design: KiCad
 - Test equipment
 - Github/Git
 
