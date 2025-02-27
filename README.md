@@ -6,7 +6,7 @@
 ## Skills and Experience
 - D/A Electronics
 - Simulation
-- C++ & C
+- C++/C
 - Microcontrollers: STM32, PIC & Arduino 
 - Python
 - Technical Documentation
