@@ -2,7 +2,7 @@
 ## Electronic Technician
  Hi there 👋, I'm [Malusi Tsoko](https://www.linkedin.com/in/malusi-tsoko-5a9561197/). 
  
-Malusi Tsoko - An electronics technician with more than 5 years of experience. In my present position, I am more actively involved, assisting the production team to make sure all products are soldered and tested to their specifications. My main skills include fault-finding, testing, and repairing both at the component level and the system level. In my free time, I study Embedded systems in C, hardware design with Kicad, and data visualization using Python.
+Malusi Tsoko - I am an electronics technician with over five years of experience. Currently, I am more engaged in supporting the production and service teams to ensure that all products are soldered and tested according to their specifications. My key skills include troubleshooting, testing, and the ability to repair at the component, product, and system levels. In my spare time, I pursue studies in Embedded systems using C, hardware design with Kicad, and data visualization through Python.
 
 ## Skills and Experience
 - D/A Electronics
