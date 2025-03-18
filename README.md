@@ -29,6 +29,7 @@ An electronic technician with over five years of work experience. Currently, I a
  - Altium Designer - PCB Basic Design Course
  - ISTQB Agile Foundation Agile Tester
  - ISTQB Foundation
+ - Linux Commands & Shell Scripting
    
  ## Education
  - Walter Sisulu University:          ND Electrical Engineering (LC), Telecommunications
