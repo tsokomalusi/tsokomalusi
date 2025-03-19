@@ -35,6 +35,12 @@ An electronic technician with over five years of work experience. Currently, I a
  - Walter Sisulu University:          ND Electrical Engineering (LC), Telecommunications
  - Buchule THS:                       NCS Matric
 
+## Connect With Me
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/malusi-tsoko-5a9561197 "
+
  
 
 
