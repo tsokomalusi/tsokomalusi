@@ -16,11 +16,11 @@ An electronic technician with over five years of work experience. Currently, I a
 - Github/Git
 
  ## Work Experience
- - Likhanye Consulting Engineers:      Trainee
- - Yekani:                             Test Technician
- - Prism Lighting:                     Sample Builder
- - Technoswitch:                       Test Technician
- - Clickon Communications:             Electronic Technician
+ - Likhanye Consulting Engineers:      Trainee                  2018 
+ - Yekani:                             Test Technician          2019
+ - Prism Lighting:                     Sample Builder           2021
+ - Technoswitch:                       Test Technician          2021  
+ - Clickon Communications:             Electronic Technician    2024 - Present
 
  ## License & Certifications
  - Siemens Mobility - Operations Industrial Engineer Job Simulation
