@@ -8,7 +8,7 @@ An electronic technician with over five years of work experience. Currently, I a
 - D/A Electronics
 - Simulation
 - C++/C
-- Microcontrollers: STM32, PIC & Arduino 
+- Microcontrollers: STM32, PIC 
 - Python
 - Technical Documentation
 - PCB Design: KiCad
