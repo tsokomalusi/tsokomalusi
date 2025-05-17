@@ -7,7 +7,7 @@ An electronic technician with over five years of work experience. Currently, I a
 ## Skills and Experience
 - D/A Electronics
 - Simulation
-- C++/C
+- C
 - Microcontrollers: STM32, PIC 
 - Python
 - Technical Documentation
