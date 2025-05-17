@@ -23,6 +23,7 @@ An electronic technician with over five years of work experience. Currently, I a
  - Clickon Communications:             Electronic Technician
 
  ## License & Certifications
+ - Siemens Mobility - Operations Industrial Engineer Job Simulation
  - Ford - EV Engineering Advanced Job Simulation
  - Ford - EV Engineering Intermediate Job Simulation
  - Ford - EV Engineering Intro Job Simulation
