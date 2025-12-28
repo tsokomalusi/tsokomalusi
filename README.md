@@ -31,6 +31,8 @@ An electronic technician with over five years of work experience. Currently, I a
  - ISTQB Agile Foundation Agile Tester
  - ISTQB Foundation
  - Linux Commands & Shell Scripting
+ - Transmission Lines 101
+ - Signal Integrity Basic to Advanced & Simulations - Esteem PCB
    
  ## Education
  - Walter Sisulu University:          ND Electrical Engineering (LC), Telecommunications
