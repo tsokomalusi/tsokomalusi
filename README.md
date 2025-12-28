@@ -23,16 +23,11 @@ An electronic technician with over five years of work experience. Currently, I a
  - Clickon Communications:             Electronic Technician    2024 - Present
 
  ## License & Certifications
- - Siemens Mobility - Operations Industrial Engineer Job Simulation
- - Ford - EV Engineering Advanced Job Simulation
- - Ford - EV Engineering Intermediate Job Simulation
- - Ford - EV Engineering Intro Job Simulation
  - Altium Designer - PCB Basic Design Course
- - ISTQB Agile Foundation Agile Tester
- - ISTQB Foundation
  - Linux Commands & Shell Scripting
  - Transmission Lines 101
  - Signal Integrity Basic to Advanced & Simulations - Esteem PCB
+ - Mixed Signal Hardware Design
    
  ## Education
  - Walter Sisulu University:          ND Electrical Engineering (LC), Telecommunications
